@@ -1,0 +1,17 @@
+Package: com.dunkeyfong.filza64bit
+Architecture: iphoneos-arm
+Version: 4.0.0-4
+Section: Utilities
+Maintainer: Kênh Táo
+Depends: zip, unzip, gzip, unrar, p7zip, net.kenhtao.libfilza
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./DEB/com.dunkeyfong.filza64bit_4.0.0-4_iphoneos-arm.deb
+Size: 8762718
+MD5sum: bcc36947f1ef8bad01a291d889745467
+SHA1: 0f7f08ccdc47d08d917ac377310527a816487459
+SHA256: a368c44de61442486efa5e8fc7727353a715cf02ebee0343c10a899a37da98fa
+SHA512: d2fcbf94bc1ddc1ea4d5e312a867e8611b5abc482c6a4e855152ce905ac378a6f21a9e54dc918734568162a898eaad1890a8aab48758af1bc481a19357abe37a
+Description: Trình quản lý tập tin cho ios của bạn.
+Name: Filza File Manager (64) VN
+Author: TIGI Software
+
