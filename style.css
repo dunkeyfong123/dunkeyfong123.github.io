@@ -80,7 +80,7 @@ body {
     border-radius: 40px;
     position: absolute;
     top:45px;
-    right: 30px;
+    right: 70px;
     display: block;
     margin: auto;
     transform: rotate(-12deg)
@@ -127,4 +127,39 @@ body {
     display: inline-flex;
     position: relative;
     text-decoration: inherit;
+}
+
+.text-thong-tin {
+    display: block;
+    justify-content: center;
+    
+}
+
+.text-lien-he {
+    justify-content: center;
+    position: relative;
+    font-size: 1.75rem;
+    padding-top: 9rem;
+    color: #fff;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: aliceblue;    
+}
+
+.ten {
+    background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: linear-gradient(to top right, #50f1f1, #13e75a);
+}
+
+.thong-tin-lien-he {
+    color: #fff;
+    font-size: 1.5rem
+}
+
+.text-mo-ta {
+    color: #fff;
+    font-size: 1.3rem;
 }
