@@ -1,19 +1,3 @@
-Package: com.dunkeyfong.trollstorehelper
-Architecture: iphoneos-arm
-Version: 1.5.0
-Section: Applications
-Maintainer: opa334
-Installed-Size: 676
-Filename: ./DEB/com.dunkeyfong.trollstorehelper_1.5.0_iphoneos-arm.deb
-Size: 272664
-MD5sum: ac8be981d2893ae2d7eb3bf8b8ab1759
-SHA1: 193f7db7619054271a43b17b5b21a9b48f4afeae
-SHA256: 4cdd749e4bfca54c22a5bb957db063672fccf0d3aed732e381a13a2c51b42d2d
-SHA512: dc000deb790c6f4c2f6ea8700be5930955c6cc6e15a67ceb1cc2a2bbd857e0f8944448b20073af841c4034886df3cf94c77c60eaec4c35134ebbb4d93f8a4018
-Description: Cài Đặt iPA trên iPhone không cần chứng chỉ
-Name: TrollStore Helper
-Author: opa334
-
 Package: com.dunkeyfong.carbridge13
 Architecture: iphoneos-arm
 Version: 2.0.10
