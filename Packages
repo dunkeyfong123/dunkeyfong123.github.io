@@ -1,17 +1,16 @@
-Package: com.dunkeyfong.filza64bit
+Package: com.dunkeyfong.trollstorehelper
 Architecture: iphoneos-arm
-Version: 4.0.0-4
-Section: Utilities
-Maintainer: Kênh Táo
-Depends: zip, unzip, gzip, unrar, p7zip, net.kenhtao.libfilza
-Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
-Filename: ./DEB/com.dunkeyfong.filza64bit_4.0.0-4_iphoneos-arm.deb
-Size: 8762718
-MD5sum: bcc36947f1ef8bad01a291d889745467
-SHA1: 0f7f08ccdc47d08d917ac377310527a816487459
-SHA256: a368c44de61442486efa5e8fc7727353a715cf02ebee0343c10a899a37da98fa
-SHA512: d2fcbf94bc1ddc1ea4d5e312a867e8611b5abc482c6a4e855152ce905ac378a6f21a9e54dc918734568162a898eaad1890a8aab48758af1bc481a19357abe37a
-Description: Trình quản lý tập tin cho ios của bạn.
-Name: Filza File Manager (64) VN
-Author: TIGI Software
+Version: 1.5.0
+Section: Applications
+Maintainer: opa334
+Installed-Size: 676
+Filename: ./DEB/com.dunkeyfong.trollstorehelper_1.5.0_iphoneos-arm.deb
+Size: 272664
+MD5sum: ac8be981d2893ae2d7eb3bf8b8ab1759
+SHA1: 193f7db7619054271a43b17b5b21a9b48f4afeae
+SHA256: 4cdd749e4bfca54c22a5bb957db063672fccf0d3aed732e381a13a2c51b42d2d
+SHA512: dc000deb790c6f4c2f6ea8700be5930955c6cc6e15a67ceb1cc2a2bbd857e0f8944448b20073af841c4034886df3cf94c77c60eaec4c35134ebbb4d93f8a4018
+Description: Cài Đặt iPA trên iPhone không cần chứng chỉ
+Name: TrollStore Helper
+Author: opa334
 
