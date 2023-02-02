@@ -1,16 +1,19 @@
-Package: com.dunkeyfong.trollstorehelper
+Package: com.dunkeyfong.carbridge13
 Architecture: iphoneos-arm
-Version: 1.5.0
-Section: Applications
-Maintainer: opa334
-Installed-Size: 676
-Filename: ./DEB/com.dunkeyfong.trollstorehelper_1.5.0_iphoneos-arm.deb
-Size: 272664
-MD5sum: ac8be981d2893ae2d7eb3bf8b8ab1759
-SHA1: 193f7db7619054271a43b17b5b21a9b48f4afeae
-SHA256: 4cdd749e4bfca54c22a5bb957db063672fccf0d3aed732e381a13a2c51b42d2d
-SHA512: dc000deb790c6f4c2f6ea8700be5930955c6cc6e15a67ceb1cc2a2bbd857e0f8944448b20073af841c4034886df3cf94c77c60eaec4c35134ebbb4d93f8a4018
-Description: Cài Đặt iPA trên iPhone không cần chứng chỉ
-Name: TrollStore Helper
-Author: opa334
+Version: 2.0.10
+Section: Tweaks
+Maintainer: Dunkey Fong ✌🏻
+Installed-Size: 7156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./DEB/com.dunkeyfong.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 1868846
+MD5sum: 67473193101d6c73442bc539f1980d96
+SHA1: aaebe02176e82d9caca63e5ca8c428290c97a268
+SHA256: 6a636b6873b5a9dab0899f8946bd8af0b6ea894711affc24df07dfabeca9493a
+SHA512: eba070e22cfc09f54200e4d1b8b97d0e1e64e9afdd3b2ab46e01d39f9cc00cf029b3faaeea9d6feab8c966588ad4a641f338c9ad7e82d94adf5efe83b14c3a12
+Description: Mở toàn bộ các ứng dụng trên CarPlay !
+Tag: cydia::commercial
+Name: CarBridge
+Author: leftyfl1p <carbridge@havoc.app>
 
