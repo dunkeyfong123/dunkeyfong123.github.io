@@ -17,3 +17,22 @@ Tag: cydia::commercial
 Name: CarBridge
 Author: leftyfl1p <carbridge@havoc.app>
 
+Package: com.dunkeyfong.carplay
+Architecture: iphoneos-arm
+Version: 1.0.9.5
+Section: Tweaks
+Maintainer: Dunkey Fong ✌🏻
+Installed-Size: 5252
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.leftyfl1p.carbridge13
+Filename: ./DEB/com.dunkeyfong.carplay_1.0.9.5_iphoneos-arm.deb
+Size: 3315150
+MD5sum: 41832f8c052b762d2bf4ecb900b4cb0d
+SHA1: b346f054805f14d9a92efa1274155eab88a1603d
+SHA256: adfe23880ae827fca72d51c6470b986860ddd331e8c9b2f2e9f4506b2e203fa0
+SHA512: 391bb0f20a02eeb39c2d03f7006259901e4175cfc59d5b5413fc5f8bb2ffe9b9e086ca6b0a56db9722710ea0d708f5a9e7cf8491a8278e51ce70bae784e98498
+Description: Mở toàn bộ ứng dụng trong CarPlay
+Tag: cydia::commercial
+Name: CarBridge
+Author: leftyfl1p <carbridgetweak@gmail.com>
+
