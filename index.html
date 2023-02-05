@@ -122,8 +122,20 @@
             <span class="navtxt1">Tải IPA</span>
         </a>
       </nav>
-      <script src="https://kit.fontawesome.com/7dd86c08e8.js" crossorigin="anonymous"></script>
-      <script src="https://unpkg.com/scrollreveal"></script>
-      <script src="./index.js"></script>
+      <div class="tbpopup active" id="tbpopup-1">
+        <div class="tboverlay"></div>
+        <div class="tbcontent">
+            <div class="tbclose-btn" onclick="thongbaopopup()">x</div>
+            <div style="font-size: 20px;color: #000;font-weight: bold">Lời nhắc !</div>  
+            <p>Hiện Nguồn vẫn đang trong quá trình phát triển</p>               
+            <p>Nên là tạm thời chưa thêm nguồn vội, còn iPA thì các bạn hãy chọn mục tải iPA để tải</p>
+            <p>Liên hệ <a href="https://www.facebook.com/dunkeyyfong" class="link">Nguyễn Trọng Phong</a> khi bạn cần hỗ trợ </p>
+        </div>
+    </div>
+    <script>
+        function thongbaopopup(){
+            document.getElementById("tbpopup-1").classList.toggle("active");
+        }
+    </script>
 </body>
 </html>
