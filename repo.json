@@ -1,86 +1,17 @@
 {
-	"META": {
-		"repoName": "Dunkeyy Fong Repo",
-	},
-	"Tweaked": [{
-		"name": "uYou+",
-		"version": "18.01.6",
-		"down": "https://github.com/qnblackcat/uYouPlus/releases/download/v18.01.6-2.3.1/uYouPlus_18.01.6_2.3.1.ipa",
-		"category": "Ứng dụng hack",
-		"description": "Xóa bỏ Ads trên Youtube",
-		"bundleID": "com.google.ios.youtube",
-		"appstore": "com.google.ios.youtube",
-	}, {
-		"name": "Instagram Rhino",
-		"version": "8.1.1",
-		"down": "https://www.mediafire.com/file/958xbc069wnh5ga/Cowabunga.ipa/file",
-		"category": "Tweaked Apps",
-		"bundleID": "com.leminlimez.cowabungaApp",
-	}, {
-		"name": "VideoStar",
-		"version": "8.3.2",
-		"icon": "https://usescarlet.com/icons/videostar.png",
-		"down": "https://resources.usescarlet.com/repo/IPAs/videostar.ipa",
-		"category": "Tweaked Apps",
-		"debs": [
-			"https://usescarlet.com/debs/videostar.dylib"
-		],
-		"bundleID": "com.frontierdesign.videostar",
-		"appstore": "com.frontierdesign.videostar"
-	}],
-	"Jailbreaks": [{
-			"name": "Taurine",
-			"version": "1.1.6",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.6/Taurine-1.1.6.ipa",
-			"dev": "Odyssey-Team",
-			"category": "Jailbreaks",
-			"description": "Ứng dụng Jailbreak iOS 14 - 14.3.",
-			"bundleID": "com.odysseyteam.taurine",
-			"screenshots": [
-				"https://taurine.app/assets/images/iphones.png",
-				"https://taurine.app/assets/images/iphone.png"
-			],
-			"contact": [
-				"https://taurine.app/",
-				"https://twitter.com/OdysseyTeam_"
-			]
-		},
-		{
-			"name": "Odyssey",
-			"version": "1.4.2",
-			"icon": "https://theodyssey.dev/assets/images/icon.png",
-			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.2/Odyssey-1.4.2.ipa",
-			"dev": "Odyssey-Team",
-			"category": "Jailbreaks",
-			"bundleID": "org.coolstar.odyssey",
-			"description": "Ứng dụng Jailbreak.",
-			"screenshots": [
-				"https://theodyssey.dev/assets/images/iphones.png",
-				"https://theodyssey.dev/assets/images/iphone.png"
-			],
-			"contact": [
-				"https://theodyssey.dev/",
-				"https://twitter.com/OdysseyTeam_"
-			]
-		},
-		{
-			"name": "unc0ver",
-			"version": "8.0.2",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
-			"down": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
-			"dev": "unc0ver-Team",
-			"category": "Jailbreaks",
-			"bundleID": "science.xnu.undecimus",
-			"screenshots": [
-				"https://usescarlet.com/Repo/unc0verpg1.png",
-				"https://usescarlet.com/Repo/unc0verpg2.png",
-				"https://usescarlet.com/Repo/unc0verpg3.png"
-			],
-			"contact": [
-				"https://unc0ver.dev/",
-				"https://twitter.com/pwn20wnd"
-			]
-		}
-	],
+    "name": "Dunkeyyfong",
+    "identifier": "com.dunkeyyfong.repo",
+    "sourceURL": "https://dunkeyfong123.github.io/repo.json",
+    "apps": [
+        {
+            "name": "Cowabunga",
+            "bundleIdentifier": "p3.com.dunkeyyfong.repo",
+            "developerName": "phong",
+            "version": "4.7.7.3",
+            "versionDescription": "Cai dat he thong",
+            "downloadURL": "https://pan.yyyue.xyz/d/esign/esign_4.7.7.3_unsigned.ipa",
+            "localizedDescription": "Cai dat he thong。",
+            "iconURL": "https://esign.yyyue.xyz/ESignLogo200.png",
+        }
+    ]
 }
